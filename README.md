@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Evaristo Ferreira :man_technologist:
+
+
+
+### Helloo! 👋 Welcome to my profile
+
+My name is Evaristo and...
+
+- 🔭 I’m currently working on Banking Administrative Operator
+- 📚 I’m currently learning flask and vue.js
+- 🔍 I’m looking for help with first job in the TI field
